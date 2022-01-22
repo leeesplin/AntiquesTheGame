@@ -908,3 +908,753 @@ You can create and save your custom layouts with "Window"->"Save Layout"->"Save 
 [2022.01.22-21.27.43:201][  0]LogAssetRegistry: Asset discovery search completed in 11.3267 seconds
 [2022.01.22-21.27.43:206][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2022.01.22-21.27.43:213][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.22-21.30.52:837][ 35]LogSlate: Window 'Save Level As' being destroyed
+[2022.01.22-21.30.55:083][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.01.22-21.30.55:088][286]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.22-21.31.20:081][286]LogSlate: Window 'Save Level As' being destroyed
+[2022.01.22-21.31.20:196][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProgrammingLevel" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.22-21.31.20:206][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.01.22-21.31.20:322][286]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevelD5245D5B409E2725E254BD8668CD00C8.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap'
+[2022.01.22-21.31.20:348][286]LogFileHelpers: Saving map 'ProgrammingLevel' took 0.259
+[2022.01.22-21.31.20:354][286]AssetCheck: New page: Asset Save: ProgrammingLevel
+[2022.01.22-21.31.20:354][286]LogContentValidation: Display: Validating World /Game/ProgrammingLevel.ProgrammingLevel
+[2022.01.22-21.31.20:553][288]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.22-21.31.28:861][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.31.28:910][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.31.28:910][278]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:31:28)
+[2022.01.22-21.31.28:936][278]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.01.22-21.31.28:951][278]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.01.22-21.31.28:952][278]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.31.29:010][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057956s)
+[2022.01.22-21.31.29:028][278]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.31.29:045][278]LogPlayLevel: PIE: World Init took: (0.035031s)
+[2022.01.22-21.31.29:061][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.108653s)
+[2022.01.22-21.31.29:066][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.01.22-21.31.29:083][278]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.31.29:083][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.31.29:083][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.31.29:084][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.31.29:084][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.31.29:084][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.31.29:084][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.31.29:088][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.31.29:088][278]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.31.29:102][278]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.31.29:103][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.31.29:103][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.31.29:103][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.31.29:103][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.31.29:103][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.31.29:103][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.31.29:104][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.31.29:104][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.31.29:104][278]LogInit: FAudioDevice initialized.
+[2022.01.22-21.31.29:104][278]LogAudio: Display: Audio Device (ID: 2) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.31.29:144][278]LogLoad: Game class is 'GameModeBase'
+[2022.01.22-21.31.29:287][278]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.31.29
+[2022.01.22-21.31.29:347][278]LogWorld: Bringing up level for play took: 0.048369
+[2022.01.22-21.31.29:354][278]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.01.22-21.31.29:554][278]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.01.22-21.31.29:692][278]PIE: Server logged in
+[2022.01.22-21.31.29:717][278]PIE: Play in editor total start time 0.844 seconds.
+[2022.01.22-21.31.32:107][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.31.32:107][513]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.31.32:114][513]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.31.32:114][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.31.32:130][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.31.32:168][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.31.32:172][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.22-21.31.32:172][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.31.32:173][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.31.32:175][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.31.32:178][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.01.22-21.31.32:281][514]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.01.22-21.31.38:235][218]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.31.38:238][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.31.38:239][218]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:31:38)
+[2022.01.22-21.31.38:239][218]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.31.38:240][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001648s)
+[2022.01.22-21.31.38:241][218]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.31.38:242][218]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2022.01.22-21.31.38:242][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003123s)
+[2022.01.22-21.31.38:247][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.01.22-21.31.38:248][218]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.31.38:248][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.31.38:248][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.31.38:248][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.31.38:248][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.31.38:248][218]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.31.38:252][218]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.31.38:252][218]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.31.38:260][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.31.38:260][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.31.38:261][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.31.38:261][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.31.38:261][218]LogInit: FAudioDevice initialized.
+[2022.01.22-21.31.38:261][218]LogAudio: Display: Audio Device (ID: 3) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.31.38:269][218]LogLoad: Game class is 'GameModeBase'
+[2022.01.22-21.31.38:271][218]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.31.38
+[2022.01.22-21.31.38:271][218]LogWorld: Bringing up level for play took: 0.000385
+[2022.01.22-21.31.38:271][218]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.01.22-21.31.38:272][218]PIE: Server logged in
+[2022.01.22-21.31.38:273][218]PIE: Play in editor total start time 0.035 seconds.
+[2022.01.22-21.31.39:517][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.31.39:517][359]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.31.39:517][359]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.31.39:517][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.31.39:527][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.31.39:559][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.31.39:564][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.31.39:564][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.31.39:565][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.31.39:568][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.01.22-21.31.39:592][360]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.01.22-21.31.40:022][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.22-21.31.40:238][424]Cmd: TRANSACTION UNDO
+[2022.01.22-21.31.40:238][424]LogEditorTransaction: Undo Clicking on Actors
+[2022.01.22-21.31.40:605][432]Cmd: TRANSACTION UNDO
+[2022.01.22-21.31.40:605][432]LogEditorTransaction: Undo Move Actors
+[2022.01.22-21.32.00:918][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.22-21.32.01:896][965]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.22-21.32.17:103][757]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ProgrammingLevel.ProgrammingLevel:PersistentLevel.ProgrammingLevel
+[2022.01.22-21.32.17:699][757]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.01.22-21.32.19:149][757]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.22-21.33.15:166][219]LogSlate: Took 0.012778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.22-21.33.25:071][375]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.33.25:094][375]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.01.22-21.33.25:168][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.01.22-21.33.25:288][375]LogSlate: Took 0.026421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.22-21.33.38:874][908]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.33.38:876][908]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.01.22-21.33.38:989][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.01.22-21.34.15:246][795]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.34.15:247][795]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2022.01.22-21.34.15:294][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.01.22-21.34.32:613][784]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.34.32:642][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.01.22-21.34.33:763][902]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.34.33:767][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.34.33:767][902]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:34:33)
+[2022.01.22-21.34.33:767][902]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.34.33:783][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015548s)
+[2022.01.22-21.34.33:784][902]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.34.33:784][902]LogPlayLevel: PIE: World Init took: (0.001519s)
+[2022.01.22-21.34.33:784][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.017203s)
+[2022.01.22-21.34.33:802][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.01.22-21.34.33:803][902]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.34.33:803][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.34.33:803][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.34.33:804][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.34.33:804][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.34.33:804][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.34.33:804][902]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.34.33:807][902]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.34.33:807][902]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.34.33:816][902]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.34.33:816][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.34.33:816][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.34.33:816][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.34.33:817][902]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.34.33:817][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.34.33:817][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.34.33:817][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.34.33:818][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.34.33:818][902]LogInit: FAudioDevice initialized.
+[2022.01.22-21.34.33:818][902]LogAudio: Display: Audio Device (ID: 4) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.34.33:832][902]LogLoad: Game class is 'GameModeBase'
+[2022.01.22-21.34.33:833][902]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.34.33
+[2022.01.22-21.34.33:833][902]LogWorld: Bringing up level for play took: 0.000602
+[2022.01.22-21.34.33:833][902]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.01.22-21.34.33:839][902]PIE: Server logged in
+[2022.01.22-21.34.33:840][902]PIE: Play in editor total start time 0.074 seconds.
+[2022.01.22-21.34.36:087][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.34.36:087][150]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.34.36:087][150]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.34.36:087][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.34.36:096][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.34.36:129][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.34.36:146][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.34.36:146][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.34.36:147][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.34.36:151][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.01.22-21.34.36:179][151]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.01.22-21.34.38:039][360]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.34.38:042][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.34.38:042][360]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:34:38)
+[2022.01.22-21.34.38:042][360]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.34.38:044][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002046s)
+[2022.01.22-21.34.38:045][360]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.34.38:045][360]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2022.01.22-21.34.38:045][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003014s)
+[2022.01.22-21.34.38:062][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.01.22-21.34.38:063][360]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.34.38:063][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.34.38:063][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.34.38:064][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.34.38:064][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.34.38:064][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.34.38:064][360]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.34.38:067][360]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.34.38:067][360]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.34.38:075][360]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.34.38:075][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.34.38:075][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.34.38:076][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.34.38:076][360]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.34.38:076][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.34.38:076][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.34.38:077][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.34.38:077][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.34.38:077][360]LogInit: FAudioDevice initialized.
+[2022.01.22-21.34.38:077][360]LogAudio: Display: Audio Device (ID: 5) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.34.38:084][360]LogLoad: Game class is 'GameModeBase'
+[2022.01.22-21.34.38:085][360]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.34.38
+[2022.01.22-21.34.38:085][360]LogWorld: Bringing up level for play took: 0.000489
+[2022.01.22-21.34.38:085][360]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.01.22-21.34.38:087][360]PIE: Server logged in
+[2022.01.22-21.34.38:087][360]PIE: Play in editor total start time 0.047 seconds.
+[2022.01.22-21.34.41:054][711]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:342).
+[2022.01.22-21.34.41:086][712]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:343).
+[2022.01.22-21.34.41:131][713]LogRenderer: Reallocating scene render targets to support 1208x636 Format 10 NumSamples 1 (Frame:344).
+[2022.01.22-21.34.41:171][714]LogRenderer: Reallocating scene render targets to support 1208x672 Format 10 NumSamples 1 (Frame:345).
+[2022.01.22-21.34.41:201][715]LogRenderer: Reallocating scene render targets to support 1208x700 Format 10 NumSamples 1 (Frame:346).
+[2022.01.22-21.34.41:237][716]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:347).
+[2022.01.22-21.34.41:277][717]LogRenderer: Reallocating scene render targets to support 1208x732 Format 10 NumSamples 1 (Frame:348).
+[2022.01.22-21.34.41:308][718]LogRenderer: Reallocating scene render targets to support 1208x752 Format 10 NumSamples 1 (Frame:349).
+[2022.01.22-21.34.41:338][719]LogRenderer: Reallocating scene render targets to support 1208x780 Format 10 NumSamples 1 (Frame:350).
+[2022.01.22-21.34.41:368][720]LogRenderer: Reallocating scene render targets to support 1208x792 Format 10 NumSamples 1 (Frame:351).
+[2022.01.22-21.34.44:377][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.34.44:377][ 22]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.34.44:377][ 22]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.34.44:377][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.34.44:394][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.34.44:432][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.34.44:448][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.34.44:448][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.34.44:449][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.34.44:454][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.01.22-21.34.44:481][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.01.22-21.37.15:363][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.22-21.37.15:931][  3]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.01.22-21.37.32:074][771]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.22-21.38.00:736][771]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-21.38.00:760][771]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.22-21.38.00:777][771]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.22-21.38.05:326][299]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerCharacter
+[2022.01.22-21.38.05:387][299]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.22-21.38.07:091][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2022.01.22-21.38.07:779][496]LogRenderer: Reallocating scene render targets to support 1276x792 Format 10 NumSamples 1 (Frame:1).
+[2022.01.22-21.41.13:738][186]BlueprintLog: New page: Compile PlayerCharacter
+[2022.01.22-21.41.13:774][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.22-21.41.43:868][730]BlueprintLog: New page: Compile PlayerCharacter
+[2022.01.22-21.41.43:905][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.01.22-21.41.50:109][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.01.22-21.41.50:161][426]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevel_Auto1F76B9981469403EC7B1C0A986DBD1D46.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/ProgrammingLevel_Auto1.umap'
+[2022.01.22-21.41.50:162][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProgrammingLevel' took 0.073
+[2022.01.22-21.41.50:162][426]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2022.01.22-21.42.09:274][299]LogSlate: Window 'PlayerCharacter' being destroyed
+[2022.01.22-21.42.09:279][299]LogSlate: Window 'PlayerCharacter' being destroyed
+[2022.01.22-21.42.09:293][299]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.42.09:293][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.42.09:326][299]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.42.09:326][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.42.11:358][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: URL: C:\Users\leees\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.01.22-21.42.35:207][271]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.01.22-21.42.42:415][899]LogSlate: Window 'Source Control Login' being destroyed
+[2022.01.22-21.43.01:991][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProgrammingLevel" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.22-21.43.02:011][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.22-21.43.02:023][153]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevelF5FED18249AF048DFE26F3AF463DDB29.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap'
+[2022.01.22-21.43.02:029][153]LogFileHelpers: Saving map 'ProgrammingLevel' took 0.039
+[2022.01.22-21.43.02:029][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProgrammingLevel_BuiltData" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel_BuiltData.uasset" SILENT=true
+[2022.01.22-21.43.02:041][153]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevel_BuiltDataDC7A55D44CB8E8E7C7C521B1CD36DB0F.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel_BuiltData.uasset'
+[2022.01.22-21.43.02:195][153]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.01.22-21.43.02:195][153]SourceControl: Error: AntiquesTheGame/Content/ProgrammingLevel_BuiltData.uasset
+[2022.01.22-21.43.02:195][153]SourceControl: Error: Use -f if you really want to add them.
+[2022.01.22-21.43.02:233][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset" SILENT=true
+[2022.01.22-21.43.02:254][153]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/PlayerCharacter1D2118BF479314655622C8818D381DED.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset'
+[2022.01.22-21.43.02:536][153]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.22-21.43.02:537][153]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProgrammingLevel_BuiltData.ProgrammingLevel_BuiltData
+[2022.01.22-21.43.02:537][153]LogContentValidation: Display: Validating World /Game/ProgrammingLevel.ProgrammingLevel
+[2022.01.22-21.43.02:537][153]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2022.01.22-21.43.10:592][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.22-21.44.53:000][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.22-21.44.53:017][497]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.22-21.45.18:648][376]LogRenderer: Reallocating scene render targets to support 1280x792 Format 10 NumSamples 1 (Frame:6366).
+[2022.01.22-21.45.31:723][585]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.22-21.45.31:729][585]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.22-21.45.31:739][585]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.22-21.45.36:820][141]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainGameMode
+[2022.01.22-21.45.36:916][141]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.22-21.45.39:455][411]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.22-21.45.39:472][411]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.22-21.45.45:991][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/MainGameMode.uasset" SILENT=true
+[2022.01.22-21.45.45:994][ 56]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/MainGameMode3DE8FB6448B31F930EE509A3F025DA60.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/MainGameMode.uasset'
+[2022.01.22-21.45.46:347][ 56]AssetCheck: New page: Asset Save: MainGameMode
+[2022.01.22-21.45.46:347][ 56]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.01.22-21.46.49:442][382]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.46.49:447][382]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.22-21.46.49:447][382]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2022.01.22-21.46.49:494][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.01.22-21.46.49:499][382]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2022.01.22-21.46.49:499][382]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:46:49)
+[2022.01.22-21.46.49:499][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.46.49:501][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002138s)
+[2022.01.22-21.46.49:502][382]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.46.49:502][382]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2022.01.22-21.46.49:502][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003635s)
+[2022.01.22-21.46.49:521][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.01.22-21.46.49:521][382]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.46.49:521][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.46.49:521][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.46.49:522][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.46.49:522][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.46.49:522][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.46.49:522][382]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.46.49:526][382]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.46.49:526][382]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.46.49:547][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.46.49:547][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.46.49:548][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.46.49:548][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.46.49:548][382]LogInit: FAudioDevice initialized.
+[2022.01.22-21.46.49:548][382]LogAudio: Display: Audio Device (ID: 6) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.46.49:555][382]LogLoad: Game class is 'MainGameMode_C'
+[2022.01.22-21.46.49:557][382]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.46.49
+[2022.01.22-21.46.49:557][382]LogWorld: Bringing up level for play took: 0.000479
+[2022.01.22-21.46.49:557][382]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.01.22-21.46.49:742][382]PIE: Server logged in
+[2022.01.22-21.46.49:742][382]PIE: Play in editor total start time 0.296 seconds.
+[2022.01.22-21.46.57:675][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.46.57:675][283]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.46.57:675][283]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.46.57:675][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.46.57:683][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.46.57:696][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.46.57:713][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.46.57:713][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.46.57:714][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.46.57:718][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.01.22-21.46.57:738][284]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.01.22-21.47.28:351][425]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.22-21.47.29:078][490]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.01.22-21.48.13:302][896]SourceControl: fatal: /Script: '/Script' is outside repository
+[2022.01.22-21.51.00:957][288]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.22-21.51.00:965][288]LogSlate: Window 'Project Settings' being destroyed
+[2022.01.22-21.53.05:320][316]BlueprintLog: New page: Compile PlayerCharacter
+[2022.01.22-21.53.05:354][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.01.22-21.53.11:157][997]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.53.11:160][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.53.11:160][997]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:53:11)
+[2022.01.22-21.53.11:184][997]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.53.11:186][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2022.01.22-21.53.11:187][997]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.53.11:187][997]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.01.22-21.53.11:187][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003147s)
+[2022.01.22-21.53.11:205][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.01.22-21.53.11:207][997]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.53.11:207][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.53.11:207][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.53.11:208][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.53.11:208][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.53.11:208][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.53.11:208][997]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.53.11:212][997]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.53.11:212][997]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.53.11:220][997]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.53.11:221][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.53.11:221][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.53.11:221][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.53.11:221][997]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.53.11:221][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.53.11:221][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.53.11:222][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.53.11:222][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.53.11:222][997]LogInit: FAudioDevice initialized.
+[2022.01.22-21.53.11:222][997]LogAudio: Display: Audio Device (ID: 7) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.53.11:234][997]LogLoad: Game class is 'MainGameMode_C'
+[2022.01.22-21.53.11:235][997]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.53.11
+[2022.01.22-21.53.11:235][997]LogWorld: Bringing up level for play took: 0.000702
+[2022.01.22-21.53.11:235][997]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.01.22-21.53.11:257][997]PIE: Server logged in
+[2022.01.22-21.53.11:257][997]PIE: Play in editor total start time 0.099 seconds.
+[2022.01.22-21.53.19:435][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.53.19:435][890]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.53.19:435][890]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.53.19:435][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.53.19:445][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.53.19:453][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.53.19:470][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.22-21.53.19:470][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.53.19:471][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.53.19:473][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.53.19:475][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.22-21.53.19:518][892]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.01.22-21.54.05:660][955]BlueprintLog: New page: Compile PlayerCharacter
+[2022.01.22-21.54.05:692][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.01.22-21.54.06:636][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.54.06:640][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.54.06:640][ 49]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:54:06)
+[2022.01.22-21.54.06:673][ 49]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.54.06:675][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001970s)
+[2022.01.22-21.54.06:676][ 49]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.54.06:677][ 49]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2022.01.22-21.54.06:677][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003668s)
+[2022.01.22-21.54.06:695][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.01.22-21.54.06:695][ 49]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.54.06:695][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.54.06:695][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.54.06:696][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.54.06:696][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.54.06:696][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.54.06:696][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.54.06:699][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.54.06:699][ 49]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.54.06:707][ 49]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.54.06:708][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.54.06:709][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.54.06:709][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.54.06:709][ 49]LogInit: FAudioDevice initialized.
+[2022.01.22-21.54.06:709][ 49]LogAudio: Display: Audio Device (ID: 8) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.54.06:721][ 49]LogLoad: Game class is 'MainGameMode_C'
+[2022.01.22-21.54.06:722][ 49]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.54.06
+[2022.01.22-21.54.06:722][ 49]LogWorld: Bringing up level for play took: 0.000518
+[2022.01.22-21.54.06:722][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.01.22-21.54.06:724][ 49]PIE: Server logged in
+[2022.01.22-21.54.06:725][ 49]PIE: Play in editor total start time 0.085 seconds.
+[2022.01.22-21.54.26:594][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.54.26:595][412]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.54.26:595][412]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.54.26:595][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.54.26:605][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.54.26:613][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.54.26:629][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.22-21.54.26:629][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.54.26:630][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.54.26:631][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.54.26:634][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.22-21.54.26:679][414]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.01.22-21.55.16:676][929]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ProgrammingLevel.ProgrammingLevel:PersistentLevel.ProgrammingLevel
+[2022.01.22-21.55.44:293][ 83]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.55.44:326][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.01.22-21.55.53:591][153]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.55.53:623][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.01.22-21.55.54:208][214]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-21.55.54:211][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-21.55.54:211][214]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 21:55:54)
+[2022.01.22-21.55.54:233][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.55.54:236][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002212s)
+[2022.01.22-21.55.54:237][214]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-21.55.54:237][214]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.01.22-21.55.54:237][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003290s)
+[2022.01.22-21.55.54:256][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.01.22-21.55.54:256][214]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-21.55.54:256][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-21.55.54:256][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-21.55.54:257][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-21.55.54:257][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-21.55.54:257][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-21.55.54:257][214]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-21.55.54:260][214]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-21.55.54:260][214]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-21.55.54:268][214]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-21.55.54:268][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-21.55.54:268][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-21.55.54:268][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-21.55.54:269][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-21.55.54:269][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-21.55.54:269][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-21.55.54:270][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-21.55.54:270][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-21.55.54:270][214]LogInit: FAudioDevice initialized.
+[2022.01.22-21.55.54:270][214]LogAudio: Display: Audio Device (ID: 9) registered with world 'ProgrammingLevel'.
+[2022.01.22-21.55.54:284][214]LogLoad: Game class is 'MainGameMode_C'
+[2022.01.22-21.55.54:285][214]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-21.55.54
+[2022.01.22-21.55.54:285][214]LogWorld: Bringing up level for play took: 0.000646
+[2022.01.22-21.55.54:285][214]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.01.22-21.55.54:288][214]PIE: Server logged in
+[2022.01.22-21.55.54:288][214]PIE: Play in editor total start time 0.078 seconds.
+[2022.01.22-21.55.55:655][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.55.55:655][364]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-21.55.55:655][364]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-21.55.55:655][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.55.55:660][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-21.55.55:694][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-21.55.55:712][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-21.55.55:712][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.55.55:713][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-21.55.55:717][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.01.22-21.55.55:738][365]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.01.22-21.56.28:209][ 84]LogSlate: Took 0.009882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.22-21.58.05:247][195]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.58.05:280][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.01.22-21.58.07:694][470]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainGameMode.MainGameMode
+[2022.01.22-21.58.32:817][317]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetGameMode' [The specified module could not be found.]
+[2022.01.22-21.59.17:908][450]LogSlate: Window 'Delete Variable' being destroyed
+[2022.01.22-21.59.59:592][275]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-21.59.59:608][275]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] The property associated with  Current Camera  could not be found in '/Game/ProgrammingLevel.ProgrammingLevel_C'
+[2022.01.22-21.59.59:643][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.01.22-22.00.19:649][639]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.00.19:650][639]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] The property associated with  Current Camera  could not be found in '/Game/ProgrammingLevel.ProgrammingLevel_C'
+[2022.01.22-22.00.19:685][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.01.22-22.00.27:630][558]BlueprintLog: New page: Compile MainGameMode
+[2022.01.22-22.00.27:666][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.22-22.00.29:230][735]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.00.29:233][735]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.00.29:266][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.01.22-22.00.31:583][  0]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.00.31:584][  0]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.00.31:617][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.01.22-22.01.05:918][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.01.22-22.01.05:991][348]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevel_Auto2614E8E5F4D66AD08495B439139E5EA40.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/ProgrammingLevel_Auto2.umap'
+[2022.01.22-22.01.05:992][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProgrammingLevel' took 0.097
+[2022.01.22-22.01.05:992][348]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.01.22-22.01.05:993][348]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerCharacter] ([2] browsable assets)...
+[2022.01.22-22.01.06:008][348]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerCharacter.PlayerCharacter]
+[2022.01.22-22.01.06:008][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerCharacter]
+[2022.01.22-22.01.06:008][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/PlayerCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.01.22-22.01.06:018][348]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/PlayerCharacter_Auto2DFCDCDA24498814E54FEAAAD4EB8ECED.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/PlayerCharacter_Auto2.uasset'
+[2022.01.22-22.01.06:018][348]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainGameMode] ([2] browsable assets)...
+[2022.01.22-22.01.06:018][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainGameMode]
+[2022.01.22-22.01.06:018][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/MainGameMode_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.01.22-22.01.06:042][348]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/MainGameMode_Auto256811572480C08480D17509381A3EB7D.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/Autosaves/Game/MainGameMode_Auto2.uasset'
+[2022.01.22-22.01.06:042][348]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.01.22-22.01.40:760][614]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.01.22-22.01.44:291][878]LogSlate: Window 'Levels' being destroyed
+[2022.01.22-22.01.44:296][878]LogSlate: Window 'Levels' being destroyed
+[2022.01.22-22.04.21:926][142]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.04.21:931][142]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.04.21:992][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.01.22-22.04.47:894][182]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.04.47:896][182]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.04.47:941][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.01.22-22.04.56:086][ 95]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.04.56:087][ 95]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.04.56:124][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.01.22-22.05.00:261][578]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.05.00:262][578]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.05.00:298][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.22-22.05.11:332][808]LogEditorTransaction: Undo Delete current selection
+[2022.01.22-22.05.11:580][814]LogEditorTransaction: Undo Break Pin Links
+[2022.01.22-22.05.11:780][818]LogEditorTransaction: Undo Move Node
+[2022.01.22-22.05.11:993][836]LogEditorTransaction: Undo Move Node
+[2022.01.22-22.05.12:205][855]LogEditorTransaction: Undo Move Node
+[2022.01.22-22.05.12:391][871]LogEditorTransaction: Undo Create Reroute Node
+[2022.01.22-22.05.12:571][882]LogEditorTransaction: Undo Move Node
+[2022.01.22-22.05.12:759][896]LogEditorTransaction: Undo Create Reroute Node
+[2022.01.22-22.05.14:026][ 40]LogEditorTransaction: Redo Create Reroute Node
+[2022.01.22-22.05.14:169][ 49]LogEditorTransaction: Redo Move Node
+[2022.01.22-22.05.14:325][ 61]LogEditorTransaction: Redo Create Reroute Node
+[2022.01.22-22.05.14:485][ 72]LogEditorTransaction: Redo Move Node
+[2022.01.22-22.05.14:634][ 83]LogEditorTransaction: Redo Move Node
+[2022.01.22-22.05.14:797][ 96]LogEditorTransaction: Redo Move Node
+[2022.01.22-22.05.14:958][109]LogEditorTransaction: Redo Break Pin Links
+[2022.01.22-22.05.15:097][117]LogEditorTransaction: Redo Delete current selection
+[2022.01.22-22.05.15:800][182]LogEditorTransaction: Undo Delete current selection
+[2022.01.22-22.05.17:562][388]LogEditorTransaction: Undo Break Pin Links
+[2022.01.22-22.05.41:412][152]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.05.41:413][152]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.05.41:451][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.01.22-22.06.02:615][913]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.02:616][913]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.02:654][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.01.22-22.06.03:393][999]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.03:395][999]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.03:433][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.01.22-22.06.03:562][ 13]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.03:563][ 13]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.03:601][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.22-22.06.03:713][ 25]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.03:714][ 25]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.03:753][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.01.22-22.06.03:855][ 36]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.03:856][ 36]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.03:894][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.01.22-22.06.04:004][ 48]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:005][ 48]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:043][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.01.22-22.06.04:145][ 59]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:146][ 59]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:184][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.01.22-22.06.04:296][ 71]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:297][ 71]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:333][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.01.22-22.06.04:426][ 81]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:428][ 81]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:466][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.01.22-22.06.04:568][ 92]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:570][ 92]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:608][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.01.22-22.06.04:735][106]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.04:737][106]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.04:774][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.01.22-22.06.32:420][300]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.32:422][300]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.32:459][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.01.22-22.06.34:108][490]LogEditorTransaction: Undo Break Pin Links
+[2022.01.22-22.06.35:645][621]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.06.35:646][621]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.06.35:684][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.01.22-22.07.02:774][788]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.02:776][788]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.07.02:813][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.01.22-22.07.06:863][238]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.06:865][238]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.07.06:903][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.01.22-22.07.10:363][647]LogEditorTransaction: Undo Break Pin Links
+[2022.01.22-22.07.12:045][795]LogEditorTransaction: Undo Break Pin Links
+[2022.01.22-22.07.32:986][265]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.32:988][265]LogBlueprint: Error: [AssetLog] D:\Documents\AntiquesTheGame\AntiquesTheGame\Content\ProgrammingLevel.umap: [Compiler] Pin  Camera  named camera doesn't match any parameters of function SetNewCamera
+[2022.01.22-22.07.33:025][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.01.22-22.07.51:524][409]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.51:564][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.01.22-22.07.55:971][910]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.56:011][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.01.22-22.07.59:076][263]BlueprintLog: New page: Compile ProgrammingLevel
+[2022.01.22-22.07.59:117][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.01.22-22.08.04:208][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.01.22-22.08.04:313][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProgrammingLevel" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.22-22.08.04:337][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.01.22-22.08.04:348][835]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/ProgrammingLevelE42093184DECD26164309CB694D44DEB.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/ProgrammingLevel.umap'
+[2022.01.22-22.08.04:356][835]LogFileHelpers: Saving map 'ProgrammingLevel' took 0.043
+[2022.01.22-22.08.04:356][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset" SILENT=true
+[2022.01.22-22.08.04:363][835]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/PlayerCharacter0AE686674645C9339D7CCF95C56D1C9D.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset'
+[2022.01.22-22.08.04:364][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/MainGameMode.uasset" SILENT=true
+[2022.01.22-22.08.04:367][835]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/MainGameMode5EC815F04157B921B7DDE395A3D01835.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/MainGameMode.uasset'
+[2022.01.22-22.08.04:381][835]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.22-22.08.04:381][835]LogContentValidation: Display: Validating World /Game/ProgrammingLevel.ProgrammingLevel
+[2022.01.22-22.08.04:381][835]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.01.22-22.08.04:381][835]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2022.01.22-22.09.54:240][955]BlueprintLog: New page: Compile PlayerCharacter
+[2022.01.22-22.09.54:286][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.01.22-22.09.55:536][ 74]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.22-22.09.55:540][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.22-22.09.55:540][ 74]PIE: New page: PIE session: ProgrammingLevel (22 Jan 2022, 22:09:55)
+[2022.01.22-22.09.55:540][ 74]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-22.09.55:543][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002534s)
+[2022.01.22-22.09.55:544][ 74]LogAIModule: Creating AISystem for world ProgrammingLevel
+[2022.01.22-22.09.55:544][ 74]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.01.22-22.09.55:544][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProgrammingLevel.ProgrammingLevel to /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel (0.003700s)
+[2022.01.22-22.09.55:570][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.01.22-22.09.55:571][ 74]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.22-22.09.55:571][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.22-22.09.55:571][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.22-22.09.55:571][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.22-22.09.55:572][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.22-22.09.55:572][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.22-22.09.55:572][ 74]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.22-22.09.55:576][ 74]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.22-22.09.55:576][ 74]LogAudioMixer: Display: 1: FrontRight
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Using Audio Device Speakers (Wireless Stereo Headset)
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.22-22.09.55:585][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.22-22.09.55:586][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.22-22.09.55:586][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.22-22.09.55:586][ 74]LogInit: FAudioDevice initialized.
+[2022.01.22-22.09.55:586][ 74]LogAudio: Display: Audio Device (ID: 10) registered with world 'ProgrammingLevel'.
+[2022.01.22-22.09.55:598][ 74]LogLoad: Game class is 'MainGameMode_C'
+[2022.01.22-22.09.55:599][ 74]LogWorld: Bringing World /Game/UEDPIE_0_ProgrammingLevel.ProgrammingLevel up for play (max tick rate 0) at 2022.01.22-22.09.55
+[2022.01.22-22.09.55:599][ 74]LogWorld: Bringing up level for play took: 0.000520
+[2022.01.22-22.09.55:599][ 74]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.01.22-22.09.55:602][ 74]PIE: Server logged in
+[2022.01.22-22.09.55:602][ 74]PIE: Play in editor total start time 0.063 seconds.
+[2022.01.22-22.10.08:773][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-22.10.08:773][524]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProgrammingLevel
+[2022.01.22-22.10.08:773][524]LogWorld: UWorld::CleanupWorld for ProgrammingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.01.22-22.10.08:774][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-22.10.08:781][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.22-22.10.08:815][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.22-22.10.08:839][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.22-22.10.08:839][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-22.10.08:840][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.22-22.10.08:842][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.22-22.10.08:845][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.01.22-22.10.08:867][525]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.01.22-22.10.36:500][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.01.22-22.10.36:607][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset" SILENT=true
+[2022.01.22-22.10.36:618][531]LogSavePackage: Moving '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Saved/PlayerCharacterE90138324A5968D6A99B60A9EC16C115.tmp' to '../../../../../Documents/AntiquesTheGame/AntiquesTheGame/Content/PlayerCharacter.uasset'
+[2022.01.22-22.10.36:633][531]AssetCheck: New page: Asset Save: PlayerCharacter
+[2022.01.22-22.10.36:633][531]LogContentValidation: Display: Validating Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2022.01.22-23.43.10:722][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
