@@ -1047,3 +1047,145 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.23-18.45.52:971][772]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.23-18.45.52:971][772]LogContentValidation: Display: Validating World /Game/Landscape.Landscape
 [2022.01.23-18.45.52:971][772]LogContentValidation: Display: Validating StaticMesh /Game/Becky/Table.Table
+[2022.01.23-18.47.42:528][448]LogActorFactory: Actor Factory created Blockout
+[2022.01.23-18.47.43:772][515]LogActorFactory: Actor Factory created Blockout
+[2022.01.23-18.48.03:512][389]Cmd: DUPLICATE
+[2022.01.23-18.48.03:512][389]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.48.20:922][152]Cmd: TRANSACTION UNDO
+[2022.01.23-18.48.20:922][152]LogEditorTransaction: Undo Move Actors
+[2022.01.23-18.48.27:907][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blockout4)
+[2022.01.23-18.48.32:394][645]Cmd: TRANSACTION UNDO
+[2022.01.23-18.48.32:394][645]LogEditorTransaction: Undo Move Actors
+[2022.01.23-18.48.35:001][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_V_A)
+[2022.01.23-18.48.35:841][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blockout3)
+[2022.01.23-18.48.36:220][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blockout3)
+[2022.01.23-18.48.41:943][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blockout4)
+[2022.01.23-18.48.55:598][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blockout3)
+[2022.01.23-18.49.05:253][152]Cmd: DUPLICATE
+[2022.01.23-18.49.05:253][152]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.49.13:837][539]Cmd: DUPLICATE
+[2022.01.23-18.49.13:837][539]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.49.19:128][775]Cmd: DUPLICATE
+[2022.01.23-18.49.19:128][775]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.49.34:027][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 4)
+[2022.01.23-18.49.37:205][588]Cmd: DUPLICATE
+[2022.01.23-18.49.37:205][588]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.49.50:459][185]Cmd: DUPLICATE
+[2022.01.23-18.49.50:459][185]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.50.08:669][993]Cmd: DUPLICATE
+[2022.01.23-18.50.08:669][993]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.50.31:392][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 6)
+[2022.01.23-18.50.34:762][113]Cmd: DUPLICATE
+[2022.01.23-18.50.34:762][113]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.50.46:016][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 3)
+[2022.01.23-18.50.47:178][669]Cmd: DUPLICATE
+[2022.01.23-18.50.47:178][669]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.51.06:028][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 9)
+[2022.01.23-18.51.08:828][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 10)
+[2022.01.23-18.52.08:290][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 1)
+[2022.01.23-18.52.11:558][ 91]Cmd: TRANSACTION UNDO
+[2022.01.23-18.52.11:558][ 91]LogEditorTransaction: Undo Move Actors
+[2022.01.23-18.52.19:949][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AntiqueGuy1)
+[2022.01.23-18.52.25:968][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 5)
+[2022.01.23-18.52.27:556][771]Cmd: DUPLICATE
+[2022.01.23-18.52.27:556][771]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.52.41:942][394]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.52.47:948][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 11)
+[2022.01.23-18.52.51:081][735]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.52.59:587][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 10)
+[2022.01.23-18.53.08:277][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 9)
+[2022.01.23-18.53.10:340][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 10)
+[2022.01.23-18.53.15:640][737]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.53.37:931][560]Cmd: DUPLICATE
+[2022.01.23-18.53.37:931][560]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.54.05:457][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2022.01.23-18.54.08:235][619]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2022.01.23-18.54.14:383][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AntiqueGuy1)
+[2022.01.23-18.54.17:664][965]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2022.01.23-18.54.28:970][352]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2022.01.23-18.55.07:450][671]Cmd: DUPLICATE
+[2022.01.23-18.55.07:450][671]Cmd: ACTOR DUPLICATE
+[2022.01.23-18.55.52:261][231]LogActorFactory: Actor Factory created Cylinder
+[2022.01.23-18.55.53:027][268]LogActorFactory: Actor Factory created Cylinder
+[2022.01.23-18.56.09:090][945]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2022.01.23-18.56.13:220][ 89]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.56.15:028][151]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2022.01.23-18.56.32:181][739]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.56.33:488][784]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2022.01.23-18.56.57:946][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2022.01.23-18.57.00:407][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2022.01.23-18.57.07:434][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 10)
+[2022.01.23-18.57.14:398][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Seller 10)
+[2022.01.23-18.58.28:438][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ground)
+[2022.01.23-18.58.32:491][ 62]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.01.23-18.58.33:336][ 92]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor3)
+[2022.01.23-18.58.34:568][134]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor2)
+[2022.01.23-18.58.39:329][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Content/Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.23-18.58.39:338][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.01.23-18.58.39:384][297]LogSavePackage: Moving 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Saved/LandscapeEDBE70504C4583A471682BA2F85AEFE1.tmp' to 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Content/Landscape.umap'
+[2022.01.23-18.58.39:392][297]AssetCheck: New page: Asset Save: Landscape
+[2022.01.23-18.58.39:392][297]LogContentValidation: Display: Validating World /Game/Landscape.Landscape
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Content: 'D:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:592][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:593][574]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-18.58.43:797][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Landscape" FILE="C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Content/Landscape.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.23-18.58.43:800][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.01.23-18.58.43:846][574]LogSavePackage: Moving 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Saved/Landscape0EC0E2BF4996CDA17F08BABF805BABF2.tmp' to 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame/AntiquesTheGame/Content/Landscape.umap'
+[2022.01.23-18.58.43:847][574]LogFileHelpers: Saving map 'Landscape' took 0.050
+[2022.01.23-18.58.56:060][574]LogSlate: Window 'Submit Files' being destroyed
+[2022.01.23-18.58.56:318][574]LogSourceControl: commit successful: [Becky 56550e2] 1st set up
+[2022.01.23-18.58.56:361][574]SourceControl: [Becky 56550e2] 1st set up
+[2022.01.23-18.58.56:361][574]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.01.23-18.58.56:365][574]SourceControl: Commited [Becky 56550e2] 1st set up.
+[2022.01.23-18.58.56:397][575]AssetCheck: New page: Asset Save: Landscape
+[2022.01.23-18.58.56:397][575]LogContentValidation: Display: Validating World /Game/Landscape.Landscape
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Content: 'D:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:423][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:424][399]SourceControl: fatal: D:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/becky/OneDrive/Documents/GitHub/AntiquesTheGame'
+[2022.01.23-19.00.00:766][399]EditorErrors: Warning: No assets to check in!
