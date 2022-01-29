@@ -1,11 +1,13 @@
 RowName,Index,Text,Colour,Sequence
-1,1,,,Intro
-2,2,,,Intro
-3,3,,,Intro
+1,1,Welcome to today's edition of *game title* .,Yellow,Intro
+2,2,We come to you LIVE from the V&A Dundee.,Yellow,Intro
+3,3,Lets find out what incredible treasures our visitors have in store for us today.,Yellow,Intro
 4,4,Tell me what you have brought in for me Gerald.,White,Pie
-5,5,This is a curry pie from lidl.,Blue,Pie
-6,6,,,
-7,7,,,
-8,8,,,
-9,9,,,
-10,10,,,
+5,5,"Hi Fiona, well today I decided to bring this macaroni pie.",Blue,Pie
+6,6,"What a gorgeous piece, how did it come to be yours?",White,Pie
+7,7,"Well, its actually been passed down the generations for as long as i can remember.",Blue,Pie
+8,8,Incredible! and what are your thoughts about it? do you keep it displayed in the livingroom?,White,Pie
+9,9,Ive got a wonky table so it does a great job at fixing that ,Blue,Pie
+10,10,"I hope it continues to go on being part of the family, the pie market has really been taking off as of late",White,Pie
+11,11,"I estimate this pie reaching to around £1000 to £1500 in auction, truly one of the best examples ive seen.",White,Pie
+12,12,might just have it for my tea tbf,Blue,Pie
