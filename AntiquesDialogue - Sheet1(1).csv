@@ -1,13 +1,36 @@
-RowName,Index,Text,Colour,Sequence
-1,1,Welcome to today's edition of *game title* .,Yellow,Intro
-2,2,We come to you LIVE from the V&A Dundee.,Yellow,Intro
-3,3,Lets find out what incredible treasures our visitors have in store for us today.,Yellow,Intro
-4,4,Tell me what you have brought in for me Gerald.,White,Pie
-5,5,"Hi Fiona, well today I decided to bring this macaroni pie.",Blue,Pie
-6,6,"What a gorgeous piece, how did it come to be yours?",White,Pie
-7,7,"Well, its actually been passed down the generations for as long as i can remember.",Blue,Pie
-8,8,Incredible! and what are your thoughts about it? do you keep it displayed in the livingroom?,White,Pie
-9,9,Ive got a wonky table so it does a great job at fixing that ,Blue,Pie
-10,10,"I hope it continues to go on being part of the family, the pie market has really been taking off as of late",White,Pie
-11,11,"I estimate this pie reaching to around £1000 to £1500 in auction, truly one of the best examples ive seen.",White,Pie
-12,12,might just have it for my tea tbf,Blue,Pie
+RowName,Index,Text,Colour,Delay
+1,1,Welcome to today's edition of Trash in the Attic.,Yellow,1
+2,2,"We are coming to you LIVE from the beautiful waterfront museum, The V&A, located right in the heart of Dundee.",Yellow,1
+3,3,Let's find out what incredible treasures our visitors have in store for us today.,Yellow,1
+4,4,Tell me what you have brought in for me Gerald.,White,1
+5,5,"Hi Fiona, well today I decided to bring this macaroni pie fae lidl.",Blue,1
+6,6,sweet,White,1
+7,7,how did it come to be yours?,White,1
+8,8,"Well, its actually been passed down the generations for as long as i can remember.",Blue,1
+9,9,Pretty rank but Incredible! and what are your thoughts about it? where do you keep it displayed?,White,1
+10,10,in the living room,Blue,2
+11,11,Ive got a wonky table so it does a great job at fixing that ,Blue,1
+12,12,Marvelous,White,1
+13,13,I would have probably kept it in the fridge,White,1
+14,14,Aye thats what my wife kept saying,Blue,1
+15,15,Surprised its kept its colour tbh,White,1
+16,16,"Yeah same, pretty sure it turned blue at one point",Blue,2
+17,17,Grim,blue,3
+18,18,"""Hey can we do something about that guy in the background""",Yellow,1
+19,19,So Gerald why have you brought this to us today,White,1
+20,20,"Well as much as it is a treasured family heirloom, i hear the pie market has really been taking off as of late",Blue,1
+21,21,did you aye?,White,1
+22,22,well,White,3
+23,23,"i have never seen a pie this old, and in this condition before, its truly one of the best examples ive seen",White,1
+24,24,"In my professional opinion i estimate this pie reaching to around £1-2 in auction,",White,1
+25,25,I'll take a fiver for it ,Blue,1
+26,26,"Oh sorry, there must be some confusion, i'm afraid I wouldn't buy it",White,1
+27,27,What?,Blue,1
+28,28,Why not?,Blue,3
+29,29,Cause its a heap of shite Gerald,White,3
+30,30,aw,Blue,2
+31,31,right,Blue,1
+32,32,well tbf might just have it for my tea,Blue,1
+33,33,It seems like Gerald will have to take is prehistoric pie else where for new buyers,Yellow,1
+34,34,Or throw it out,Yellow,1
+35,35,Moving on to our next antique we go to--,Yellow,1
