@@ -22,4 +22,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2022-01-22T
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-01-22T15:35:09.809Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-01-22T15:35:51.269Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-01-22T15:35:53.020Z
-AntiquesTheGame.exe	2022-03-08T20:54:00.437Z
+AntiquesTheGame.exe	2022-09-22T20:46:41.193Z
