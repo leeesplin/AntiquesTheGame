@@ -41,9 +41,9 @@
 			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
 			"Assets": [
 				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
-				"/Game/Lee/M_NewsRoom",
+				"/Game/Fergus/Meshes/Garage_Vehicle_Texture",
 				"/Game/Fergus/Meshes/Car_Texture_2",
-				"/Game/Fergus/Meshes/Garage_Vehicle_Texture"
+				"/Game/Lee/M_NewsRoom"
 			]
 		},
 		{
@@ -207,10 +207,10 @@
 			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Fergus/Meshes/Fergus_003",
-				"/Game/Claire/Meshes/Material_002",
+				"/Game/Fergus/Meshes/Fergus_002",
 				"/Game/Fergus/Materials/Material",
-				"/Game/Fergus/Meshes/Fergus_002"
+				"/Game/Claire/Meshes/Material_002",
+				"/Game/Fergus/Meshes/Fergus_003"
 			]
 		},
 		{
@@ -274,9 +274,38 @@
 			]
 		},
 		{
+			"ShaderMapHash": "654DCFE485423A411E123F7DDDBF2AFBA838AC59",
+			"Assets": [
+				"/Game/Lee/ArrowTextureRenderTarget2D_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "38149F71F46861EECAF559722768C904B995B79E",
+			"Assets": [
+				"/Game/Fergus/Meshes/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "6294F948F994E367C1FF8C81B61DE4FF6D84401B",
+			"Assets": [
+				"/Game/Fergus/Materials/M_Char_Fergus",
+				"/Game/Fergus/Materials/M_Char_5",
+				"/Game/Fergus/Materials/M_Char_3",
+				"/Game/Fergus/Materials/M_Char_2",
+				"/Game/Fergus/Materials/M_Char_1",
+				"/Game/Fergus/Materials/M_Char_6"
+			]
+		},
+		{
 			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CEC81C48C9B77037D3E04A3912814EFA57F883BA",
+			"Assets": [
+				"/Game/Claire/Materials/M_Master"
 			]
 		},
 		{
@@ -298,87 +327,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CEC81C48C9B77037D3E04A3912814EFA57F883BA",
+			"ShaderMapHash": "620F0276FA97002223F4949A6C870481106A4DE7",
 			"Assets": [
-				"/Game/Claire/Materials/M_Master"
-			]
-		},
-		{
-			"ShaderMapHash": "654DCFE485423A411E123F7DDDBF2AFBA838AC59",
-			"Assets": [
-				"/Game/Lee/ArrowTextureRenderTarget2D_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6294F948F994E367C1FF8C81B61DE4FF6D84401B",
-			"Assets": [
-				"/Game/Fergus/Materials/M_Char_Fergus",
-				"/Game/Fergus/Materials/M_Char_6",
-				"/Game/Fergus/Materials/M_Char_2",
-				"/Game/Fergus/Materials/M_Char_5",
-				"/Game/Fergus/Materials/M_Char_3",
-				"/Game/Fergus/Materials/M_Char_1"
-			]
-		},
-		{
-			"ShaderMapHash": "3E9C82D2EE67206961193187040A7BC373F9CE02",
-			"Assets": [
-				"/Game/Fergus/Materials/Fergus"
-			]
-		},
-		{
-			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
-			"Assets": [
-				"/Game/Fergus/Fergus"
-			]
-		},
-		{
-			"ShaderMapHash": "C00C98543BBC5CD62C196B0F30AC933039414319",
-			"Assets": [
-				"/Game/Fergus/Textures/PTree"
-			]
-		},
-		{
-			"ShaderMapHash": "D066870454880FE759ED37062F4FFD2114B01675",
-			"Assets": [
-				"/Game/Fergus/Textures/M_Shapes"
-			]
-		},
-		{
-			"ShaderMapHash": "EB556B517B49DECA68085BF8CC46895BAB66A9C0",
-			"Assets": [
-				"/Game/Claire/Materials/M_Watr"
-			]
-		},
-		{
-			"ShaderMapHash": "FE60F004187973AA035FC31E15DDDEB325DC659F",
-			"Assets": [
-				"/Game/Fergus/Materials/M_Char_Fiona"
+				"/Game/Becky/Pixelate"
 			]
 		},
 		{
 			"ShaderMapHash": "D07C32AE8FB52963D56538F42AA7D78250AE7C25",
 			"Assets": [
-				"/Game/Claire/Materials/MI_White",
-				"/Game/Claire/Materials/M_Basic"
-			]
-		},
-		{
-			"ShaderMapHash": "BB90999B124C686B609B8850EBE0DB033AC07FBC",
-			"Assets": [
-				"/Game/Fergus/Textures/M_FionaHair"
-			]
-		},
-		{
-			"ShaderMapHash": "3729AF0EA70178A5AFE7E93C3254048A30EFC316",
-			"Assets": [
-				"/Game/Claire/Materials/M_Tree"
-			]
-		},
-		{
-			"ShaderMapHash": "620F0276FA97002223F4949A6C870481106A4DE7",
-			"Assets": [
-				"/Game/Becky/Pixelate"
+				"/Game/Claire/Materials/M_Basic",
+				"/Game/Claire/Materials/MI_White"
 			]
 		},
 		{
@@ -394,9 +352,51 @@
 			]
 		},
 		{
-			"ShaderMapHash": "38149F71F46861EECAF559722768C904B995B79E",
+			"ShaderMapHash": "FE60F004187973AA035FC31E15DDDEB325DC659F",
 			"Assets": [
-				"/Game/Fergus/Meshes/Material"
+				"/Game/Fergus/Materials/M_Char_Fiona"
+			]
+		},
+		{
+			"ShaderMapHash": "BB90999B124C686B609B8850EBE0DB033AC07FBC",
+			"Assets": [
+				"/Game/Fergus/Textures/M_FionaHair"
+			]
+		},
+		{
+			"ShaderMapHash": "3729AF0EA70178A5AFE7E93C3254048A30EFC316",
+			"Assets": [
+				"/Game/Claire/Materials/M_Tree"
+			]
+		},
+		{
+			"ShaderMapHash": "EB556B517B49DECA68085BF8CC46895BAB66A9C0",
+			"Assets": [
+				"/Game/Claire/Materials/M_Watr"
+			]
+		},
+		{
+			"ShaderMapHash": "C00C98543BBC5CD62C196B0F30AC933039414319",
+			"Assets": [
+				"/Game/Fergus/Textures/PTree"
+			]
+		},
+		{
+			"ShaderMapHash": "D066870454880FE759ED37062F4FFD2114B01675",
+			"Assets": [
+				"/Game/Fergus/Textures/M_Shapes"
+			]
+		},
+		{
+			"ShaderMapHash": "3E9C82D2EE67206961193187040A7BC373F9CE02",
+			"Assets": [
+				"/Game/Fergus/Materials/Fergus"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD4AB7FDC0BC3C837929677393195B7422CE32B",
+			"Assets": [
+				"/Game/Fergus/Fergus"
 			]
 		}
 	]
